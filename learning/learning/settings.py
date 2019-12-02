@@ -27,7 +27,7 @@ SECRET_KEY = 'va_*e3hxskngro8xwzr%@9k2wd8$=b=49(pm3yxqx!&li&7u&w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [nftopham.pythonanywhere.com,]
+ALLOWED_HOSTS = ["nftopham.pythonanywhere.com",]
 
 
 # Application definition
